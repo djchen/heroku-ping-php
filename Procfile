@@ -1,1 +1,1 @@
-worker: while true; do cd /app/www && /app/bin/php ping.php; sleep 60; done
+worker: while true; do php ping.php; sleep 60; done

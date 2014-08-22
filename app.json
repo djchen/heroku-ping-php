@@ -1,0 +1,6 @@
+{
+    "name": "heroku-ping-php",
+    "description": "Heroku worker to ping your Heroku apps to keep them awake",
+    "repository": "https://github.com/djchen/heroku-ping-php",
+    "keywords": ["heroku", "ping", "php"]
+}

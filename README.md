@@ -8,3 +8,7 @@ You will need to configure a new app with 0 web dynos and 1 worker dyno
 Edit the Procfile to change how often to ping your Heroku apps
 
 The index.php is just a dummy file so Heroku recognizes this as a PHP app
+
+You can deploy your own copy of the app using this button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/djchen/heroku-ping-php)
